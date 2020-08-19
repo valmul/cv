@@ -9,4 +9,4 @@ Le test de la feuille de style avec des média query m'amène à conclure qu'ell
 - Pousser son code
 - Aller dans Settings
 - Aller jusqu'à la rubrique Github Pages
-![Copie écran GitHub - accès Settings](/img/github-settings.png)
+![Copie écran GitHub - accès Settings](/img/github-settings.PNG)
