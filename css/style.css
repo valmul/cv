@@ -50,16 +50,16 @@ header img {
     box-shadow: 3px 3px 6px rgb(170, 170, 170);
 }
 
-#Experiences ul{
+#Experiences ul, #Formations ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-#Experiences li {
+#Experiences li, #Formations li {
     margin-bottom: 10px;
 
 }
-#Experiences aside{
+#Experiences aside, #Formations aside{
     float: right;
 }
 footer {
